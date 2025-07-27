@@ -48,7 +48,9 @@ With increasing safety concerns in educational and public institutions, there's 
   - **Test:** 7% (592 images)
 
 ---
-![LeanGuard Detection Preview](images/test.png)
+
+### Lean Guard Detection Preview
+![LeanGuard Detection Preview](test.png)
 
 ## Installation & Usage
 
