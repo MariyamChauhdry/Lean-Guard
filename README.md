@@ -57,5 +57,5 @@ With increasing safety concerns in educational and public institutions, there's 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/MariyamChauhdry/LeanGuard.git
+git clone https://github.com/MariyamChauhdry/Lean-Guard.git
 cd LeanGuard
